@@ -27,7 +27,9 @@ const About = () => {
             Connect with Me on LinkedIn
             </Button>
             <span>
-              <strong>'RedoxCart'</strong>   an ecommerce MERN webapp made by me using ReactJs,Redux,NodeJs,ExpressJs,MongoDb
+              <strong>'RedoxCart'</strong>   an ecommerce MERN for ReactJS developer Assignment
+Thinsil Tech. Pvt. Ltd.
+
             </span>
           </div>
           <div className="aboutSectionContainer2">

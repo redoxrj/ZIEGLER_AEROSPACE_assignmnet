@@ -81,6 +81,8 @@
     margin: 2vmax;
     transition: all 0.5s;
     padding-bottom: 0.5vmax;
+    /* border: 1px solid red; */
+    box-shadow: 0 0 5px black;
   }
  
   .productCard > img {
@@ -115,7 +117,7 @@
   }
   
   .productCard:hover {
-    box-shadow: 0 0 5px rgba(15, 15, 15, 0.26);
+    box-shadow: 0 0 px rgba(15, 15, 15, 0.26);
   
     transform: translateY(-1vmax);
   }
