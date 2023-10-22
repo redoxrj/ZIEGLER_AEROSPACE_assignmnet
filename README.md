@@ -15,7 +15,7 @@ Hi! My name is **Rajnish Kumar**, I have made this Assignment for Full stack dev
 # Key Features
 
 ✅ You can register/login with email password (image upload coming very soon) <br>
-✅ You can search and filter products by their category,price and ratings.<br>
+✅ You can search and filter products by their category(seller name),price and ratings.<br>
 ✅ You can also give reviews to any products you wish.<br>
 ✅ You can Buy products using real Credit and debit cards ,but for testing purpose you can follow below 👇:<br>
 
