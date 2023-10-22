@@ -30,13 +30,13 @@ const NewProduct = () => {
   const [imagesPreview, setImagesPreview] = useState([]);
 
   const categories = [
-    "Laptop",
-    "Footwear",
-    "Bottom",
-    "Tops",
-    "Attire",
-    "Camera",
-    "SmartPhones",
+    "Ziegler Seller",
+    "Amazon Seller",
+    "Hrx Seller",
+    "Ganesh Seller",
+    "Ramu Seller",
+    "Modi Seller",
+    "Binod Seller",
   ];
 
   useEffect(() => {
@@ -155,6 +155,7 @@ const NewProduct = () => {
                 onChange={(e) => setStock(e.target.value)}
               />
             </div>
+           
 
             <div id="createProductFormFile">
               <input

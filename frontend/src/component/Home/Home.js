@@ -28,10 +28,10 @@ const Home = () => {
     <>
     {loading ? <Loader/>:  
     <>
-    <MetaData title={'Home : RedoxCart'}/>
+    <MetaData title={'Home : ZIEGLER AEROSPACE'}/>
        <div className="banner">
-            <p>Welcome to Thinsil Technologies E-commerce App</p>
-            <h1>FIND AMAZING PRODUCTS BELOW</h1>
+            <p>Welcome to ZIEGLER AEROSPACE </p>
+            <h1>FIND AMAZING Aircraft Cabin Components BELOW</h1>
 
             <a href="#container"> 
               <button>

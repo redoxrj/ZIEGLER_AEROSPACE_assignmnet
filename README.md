@@ -1,7 +1,6 @@
 # MERN E-COMMERCE APP 'RedoxCart'
 
-Hi! My name is **Rajnish Kumar**, I have made this ecommerce app for ReactJS developer Assignment
-Thinsil Tech. Pvt. Ltd. </br>
+Hi! My name is **Rajnish Kumar**, I have made this Assignment for Full stack developer ZIEGLER AEROSPACE </br>
 
 
 # Tech. Used

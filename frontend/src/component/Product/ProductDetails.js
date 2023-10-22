@@ -109,7 +109,7 @@ const ProductDetails = () => {
         <Loader />
       ) : (
         <>
-          <MetaData title={`${product.name} -- RedoxCart`} />
+          <MetaData title={`${product.name} -- ZIEGLER AEROSPACE`} />
           <div className="ProductDetails">
             <div>
               <Carousel>
@@ -128,7 +128,8 @@ const ProductDetails = () => {
             <div>
               <div className="detailsBlock-1">
                 <h2>{product.name}</h2>
-                <p>Product # {product._id}</p>
+                
+                <p>Seller Name : {`{${product.category}}`}</p>
               </div>
               <div className="detailsBlock-2">
                 <Rating {...options} />

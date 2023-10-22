@@ -27,9 +27,7 @@ const About = () => {
             Connect with Me on LinkedIn
             </Button>
             <span>
-              <strong>'RedoxCart'</strong>   an ecommerce MERN for ReactJS developer Assignment
-Thinsil Tech. Pvt. Ltd.
-
+              <strong>'RedoxCart'</strong> Full Stack developer Assignment for ZIEGLER AEROSPACE
             </span>
           </div>
           <div className="aboutSectionContainer2">

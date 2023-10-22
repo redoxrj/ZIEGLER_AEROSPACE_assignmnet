@@ -13,13 +13,13 @@ import MetaData from '../layout/MetaData';
 
 
 const categories = [
-    "Laptop",
-    "Footwear",
-    "Bottom",
-    "Tops",
-    "Games",
-    "Camera",
-    "SmartPhones",
+    "Ziegler Seller",
+    "Amazon Seller",
+    "Hrx Seller",
+    "Ganesh Seller",
+    "Ramu Seller",
+    "Modi Seller",
+    "Binod Seller",
   ];
 
 
@@ -56,7 +56,7 @@ const Products = () => {
     <>
       {loading ? <Loader/> : 
       <> 
-       <MetaData title={'Products : ECOMMERCE'}/>
+       <MetaData title={'Products : ZIEGLER AEROSPACE'}/>
        <h2 className="productsHeading">Products</h2>
 
        <div className="products">

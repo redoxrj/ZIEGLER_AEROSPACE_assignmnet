@@ -4,14 +4,14 @@ import {ReactNavbar} from "overlay-navbar"
 import { FiShoppingBag} from "react-icons/fi";
 import { BsSearch} from "react-icons/bs";
 import { HiOutlineUserCircle} from "react-icons/hi";
-import logo  from '../../../images/logo1.png';
+import logo  from '../../../images/cursor.png';
 const options = {
     burgerColorHover: "#eb4034",
     logo,
-    logoWidth: "20vmax",
+    logoWidth: "10vmax",
     navColor1: "white",
     logoHoverSize: "10px",
-    logoHoverColor: "#eb4034",
+    // logoHoverColor: "#eb4034",
     link1Text: "Home",
     link2Text: "Products",
     link3Text: "Contact",

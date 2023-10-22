@@ -9,7 +9,7 @@
     padding: 0;
   }
   .sidebar > a > img {
-    width: 70%;
+    width: 40%;
     transition: all 0.5s;
     padding-left: 2vw;
   }
