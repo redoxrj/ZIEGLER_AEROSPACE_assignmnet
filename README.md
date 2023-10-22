@@ -2,6 +2,12 @@
 
 Hi! My name is **Rajnish Kumar**, I have made this Assignment for Full stack developer ZIEGLER AEROSPACE </br>
 
+# live-link : https://ziegler-aerospace-trading.onrender.com  </br>
+# Preview
+
+![Screenshot (108)](https://github.com/redoxrj/ZIEGLER_AEROSPACE_assignmnet/assets/140983045/bffc0843-45d9-4908-ba8a-d7df501e7d33)
+![Screenshot (107)](https://github.com/redoxrj/ZIEGLER_AEROSPACE_assignmnet/assets/140983045/fae2945c-ce8a-4e2d-8c7a-ec96f545baed)
+
 
 # Tech. Used
 
@@ -30,11 +36,9 @@ Cv: 566 (any 3 digits)<br>
 ✅ And many more....<br>
 
 
-🔗 link : https://lnkd.in/ddZmqbHc<br>
+🔗 link : [https://lnkd.in/ddZmqbHc](https://ziegler-aerospace-trading.onrender.com)<br>
 
-## Deployed
-So what are u waiting for Go ,checkout and explore this amazing web app 🚀
-**Render** Click [Here](https://redoxcart-mern-app.onrender.com/) **RedoxCart**
+
 
 
 # Install Dependencies
